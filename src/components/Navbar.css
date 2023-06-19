@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .navbar h1 {
+    text-align: left;
+    margin-bottom: 0;
+    color: rgb(23, 177, 194);
+  }
+  
+  .navbar .links {
+    margin-right: 20px;
+  }
+  
+  .navbar .links a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(23, 177, 194);
+    font-weight: bold;
+    border: none;
+  }
+  
+  .navbar .links a:hover {
+    color: rgb(0, 68, 156);
+  }
+  

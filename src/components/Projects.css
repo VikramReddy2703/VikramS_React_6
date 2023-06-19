@@ -1,0 +1,21 @@
+.project-links {
+    display: flex;
+  }
+  
+  .project-link {
+    margin-right: 10px;
+  }
+  
+  .project-link:last-child {
+    margin-right: 0;
+  }
+  .rating-stars {
+    margin-top: 10px; /* Add your desired gap here */
+  }
+  .project-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  

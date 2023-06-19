@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VikramS_React_6/static/css/main.3f3f2db7.css",
+    "main.js": "/VikramS_React_6/static/js/main.07b8f0d3.js",
+    "static/media/green.jpg": "/VikramS_React_6/static/media/green.cad6cdc1ed7789038e59.jpg",
+    "static/media/vikram.jpg": "/VikramS_React_6/static/media/vikram.9af76af233ddab0cfd81.jpg",
+    "static/media/home.JPG": "/VikramS_React_6/static/media/home.4ec1fef4a98118f45937.JPG",
+    "index.html": "/VikramS_React_6/index.html",
+    "main.3f3f2db7.css.map": "/VikramS_React_6/static/css/main.3f3f2db7.css.map",
+    "main.07b8f0d3.js.map": "/VikramS_React_6/static/js/main.07b8f0d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3f2db7.css",
+    "static/js/main.07b8f0d3.js"
+  ]
+}
